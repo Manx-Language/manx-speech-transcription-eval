@@ -1,8 +1,8 @@
-# Speech Transcription Evaluation Sets for the Manx Language
+<h2 style="text-align: center;">Speech Transcription Evaluation Sets for the Manx Language</h2>
 
 These evaluation sets are collections of Manx Gaelic speech recordings, along with transcripts (written versions of what is spoken) and, where available, English translations.
 
-## Why Make Evaluation Sets?
+<h3 align="center">Why Make Evaluation Sets?</h3>
 
 Manx language resources are extremely rare compared to most languages, which makes building language technologies challenging. These evaluation sets provide essential benchmarks to consistently measure and enhance the performance of various language technologies. They can be used for:
 
@@ -18,7 +18,7 @@ Manx language resources are extremely rare compared to most languages, which mak
 - **Developing Spoken Language Identification (SpokenLID):**  
   Teach systems to recognise Manx, even in mixed-language audio.
 
-## Overview of the Evaluation Sets
+<h3 align="center">Overview of the Evaluation Sets</h3>
 
 We have grouped our resources into four main sets. Each set focuses on a different style of Manx speech. For more details, visit each set’s README:
 
@@ -31,15 +31,15 @@ We have grouped our resources into four main sets. Each set focuses on a differe
 
 4. [Ynsaghey (Learn)](https://github.com/Manx-Language/manx-speech-transcription-eval/blob/main/Ynsaghey/README.md)
 
-## Source Information
+<h3 align="center">Source Information</h3>
 
 Please see [metadata](https://github.com/Manx-forge/speech-transcription-eval/blob/main/metadata.csv) for information regarding each file. All data in this repository has been sourced from publicly available sources, however we strive to respect original content creators and maintain any licensing conditions.
 
-## How to Use These Sets
+<h3 align="center">How to Use These Sets</h3>
 
 Clone or download the [repository](https://github.com/Manx-forge/speech-transcription-eval) to access descriptions and transcripts. The audio files are too large to be hosted directly in this repository, so please contact me personally if you would like access to the recordings.
 
-## Areas for Improvement
+<h3 align="center">Areas for Improvement</h3>
 
 This repository is a work in progress. Here are some areas where contributions would be especially valuable:
 
