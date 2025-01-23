@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Manx Forge
+---
+
 # Speech Transcription Evaluation Sets for the Manx Language
 
 These evaluation sets are collections of Manx Gaelic speech recordings, along with transcripts (written versions of what is spoken) and, where available, English translations. By providing this data, we hope to support researchers, developers, and language enthusiasts who want to improve tools and technologies related to the Manx language.
